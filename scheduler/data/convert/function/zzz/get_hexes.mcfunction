@@ -1,0 +1,18 @@
+# Generated with MC-Build
+
+$data modify storage convert:temp 0 set from storage convert:main hex_chars[$(0)]
+$data modify storage convert:temp 1 set from storage convert:main hex_chars[$(1)]
+$data modify storage convert:temp 2 set from storage convert:main hex_chars[$(2)]
+$data modify storage convert:temp 3 set from storage convert:main hex_chars[$(3)]
+$data modify storage convert:temp 4 set from storage convert:main hex_chars[$(4)]
+$data modify storage convert:temp 5 set from storage convert:main hex_chars[$(5)]
+$data modify storage convert:temp 6 set from storage convert:main hex_chars[$(6)]
+$data modify storage convert:temp 7 set from storage convert:main hex_chars[$(7)]
+$data modify storage convert:temp 8 set from storage convert:main hex_chars[$(8)]
+$data modify storage convert:temp 9 set from storage convert:main hex_chars[$(9)]
+$data modify storage convert:temp a set from storage convert:main hex_chars[$(a)]
+$data modify storage convert:temp b set from storage convert:main hex_chars[$(b)]
+$data modify storage convert:temp c set from storage convert:main hex_chars[$(c)]
+$data modify storage convert:temp d set from storage convert:main hex_chars[$(d)]
+$data modify storage convert:temp e set from storage convert:main hex_chars[$(e)]
+$data modify storage convert:temp f set from storage convert:main hex_chars[$(f)]

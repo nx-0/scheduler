@@ -1,0 +1,1 @@
+$execute in overworld positioned 0 -100 0 as @e[tag=scheduler,type=marker,distance=..0.1,tag=new] at $(uuid) run function scheduler:logic/setup with storage scheduler:temp
